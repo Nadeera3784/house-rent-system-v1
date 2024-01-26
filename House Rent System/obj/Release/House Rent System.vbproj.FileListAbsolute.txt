@@ -1,0 +1,39 @@
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\bin\Release\House Rent System.exe
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\bin\Release\House Rent System.pdb
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\bin\Release\House Rent System.xml
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Release\House_Rent_System.frmLogin.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Release\House_Rent_System.frmMain.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Release\House_Rent_System.frmregreport.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Release\House_Rent_System.frmReportbyhouse.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Release\House_Rent_System.frmReportbymarital.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Release\House_Rent_System.frmReportbystandard.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Release\House_Rent_System.Resources.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Release\House Rent System.vbproj.GenerateResource.Cache
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Release\House Rent System.exe
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Release\House Rent System.xml
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Release\House Rent System.pdb
+C:\Users\Canon C. Ngirwa\Desktop\House Rent System\House Rent System\House Rent System\House Rent System\obj\Release\House Rent System.exe
+C:\Users\Canon C. Ngirwa\Desktop\House Rent System\House Rent System\House Rent System\House Rent System\obj\Release\House Rent System.xml
+C:\Users\Canon C. Ngirwa\Desktop\House Rent System\House Rent System\House Rent System\House Rent System\obj\Release\House Rent System.pdb
+C:\Users\Canon C. Ngirwa\Desktop\House Rent System\House Rent System\House Rent System\obj\Release\House Rent System.exe
+C:\Users\Canon C. Ngirwa\Desktop\House Rent System\House Rent System\House Rent System\obj\Release\House Rent System.xml
+C:\Users\Canon C. Ngirwa\Desktop\House Rent System\House Rent System\House Rent System\obj\Release\House Rent System.pdb
+D:\House Rent System\House Rent System\House Rent System\obj\Release\House Rent System.exe
+D:\House Rent System\House Rent System\House Rent System\obj\Release\House Rent System.xml
+D:\House Rent System\House Rent System\House Rent System\obj\Release\House Rent System.pdb
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\bin\Release\House Rent System.exe
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\bin\Release\House Rent System.pdb
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\bin\Release\House Rent System.xml
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Release\House_Rent_System.frmLogin.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Release\House_Rent_System.frmMain.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Release\House_Rent_System.frmregreport.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Release\House_Rent_System.frmReportbyhouse.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Release\House_Rent_System.frmReportbymarital.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Release\House_Rent_System.frmReportbystandard.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Release\House_Rent_System.Resources.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Release\House Rent System.vbproj.GenerateResource.Cache
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Release\House Rent System.exe
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Release\House Rent System.xml
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Release\House Rent System.pdb

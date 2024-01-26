@@ -1,0 +1,48 @@
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\bin\Debug\House Rent System.exe
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\bin\Debug\House Rent System.pdb
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\bin\Debug\House Rent System.xml
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmLogin.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmMain.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmregreport.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmReportbyhouse.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmReportbymarital.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmReportbystandard.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Debug\House_Rent_System.Resources.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Debug\House Rent System.vbproj.GenerateResource.Cache
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Debug\House Rent System.exe
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Debug\House Rent System.xml
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\obj\Debug\House Rent System.pdb
+D:\House Rent System\House Rent System\House Rent System\bin\Debug\House Rent System.exe
+D:\House Rent System\House Rent System\House Rent System\bin\Debug\House Rent System.pdb
+D:\House Rent System\House Rent System\House Rent System\bin\Debug\House Rent System.xml
+D:\House Rent System\House Rent System\House Rent System\obj\Debug\ResolveAssemblyReference.cache
+D:\House Rent System\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmLogin.resources
+D:\House Rent System\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmMain.resources
+D:\House Rent System\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmregreport.resources
+D:\House Rent System\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmReportbyhouse.resources
+D:\House Rent System\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmReportbymarital.resources
+D:\House Rent System\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmReportbystandard.resources
+D:\House Rent System\House Rent System\House Rent System\obj\Debug\House_Rent_System.Resources.resources
+D:\House Rent System\House Rent System\House Rent System\obj\Debug\House Rent System.vbproj.GenerateResource.Cache
+D:\House Rent System\House Rent System\House Rent System\obj\Debug\House Rent System.exe
+D:\House Rent System\House Rent System\House Rent System\obj\Debug\House Rent System.xml
+D:\House Rent System\House Rent System\House Rent System\obj\Debug\House Rent System.pdb
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Debug\House Rent System.exe
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Debug\House Rent System.xml
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Debug\House Rent System.pdb
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\bin\Debug\House Rent System.exe
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\bin\Debug\House Rent System.pdb
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\bin\Debug\House Rent System.xml
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmLogin.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmMain.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmregreport.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmReportbyhouse.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmReportbymarital.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Debug\House_Rent_System.frmReportbystandard.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Debug\House_Rent_System.Resources.resources
+C:\Users\Canon C. Ngirwa\Documents\Visual Studio 2008\Projects\House Rent System\House Rent System\House Rent System\obj\Debug\House Rent System.vbproj.GenerateResource.Cache
+C:\Users\HCT\Downloads\house_rent_system_1 (1)\House Rent System\House Rent System\bin\Debug\House Rent System.exe.config
+C:\Users\HCT\Downloads\house_rent_system_1 (1)\House Rent System\House Rent System\obj\Debug\House Rent System.xml
+C:\Users\HCT\Downloads\house_rent_system_1 (1)\House Rent System\House Rent System\obj\Debug\House Rent System.pdb
